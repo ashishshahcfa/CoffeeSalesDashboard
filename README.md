@@ -1,2 +1,39 @@
-# CoffeeSalesDashboard
-The Coffee Sales Dashboard is an Excel-based tool with macros that visualizes key sales metrics, including sales by country, product type, and roast. It tracks trends over time, analyzes average unit prices, and provides an interactive view of coffee business performance for better decision-making.
+# Coffee Sales Dashboard
+
+File Name: COFFEE SALES DASHBOARD WITH MACRO.xlsm
+
+Purpose: To provide an interactive dashboard that summarizes key sales performance metrics for a coffee business.
+
+Contents:
+
+**DASHBOARD:**
+Overview of sales metrics including total sales, sales by country, and monthly trends.
+Visualizations to easily track performance.
+
+**SALES BY COUNTRY:**
+Sales figures split by country, allowing for regional analysis.
+
+**AVG UNIT PRICE BY TYPE-ROAST:**
+Insights into pricing strategies and how unit prices vary between different coffee types and roast categories.
+
+**SALES BY MONTH-YR:**
+Sales data displayed over time to track monthly and yearly performance trends.
+
+**SALES ROAST-TYPE:**
+Breakdown of sales based on roast type, helping identify the most popular roasts.
+
+**CLEANED DATA:**
+Refined version of raw sales and customer data, cleaned for accurate analysis.
+
+**ORDERS:**
+Detailed order history for tracking customer purchases and product demand.
+
+**CUSTOMERS:**
+Customer information for segmentation and tracking of purchasing behavior.
+
+**PRODUCTS:**
+Coffee product details including types and roasts offered by the business.
+
+**Usage Instructions:**
+Open the Excel file and enable macros to ensure full functionality.
+Use the DASHBOARD sheet to view key performance metrics.
