@@ -1,7 +1,5 @@
 # Coffee Sales Dashboard
 
-File Name: COFFEE SALES DASHBOARD WITH MACRO.xlsm
-
 Purpose: To provide an interactive dashboard that summarizes key sales performance metrics for a coffee business.
 
 Contents:
